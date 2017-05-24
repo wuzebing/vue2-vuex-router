@@ -181,3 +181,4 @@ new Vue({
 }).$mount('#app')
 ```
 
+# vue2-vuex-router
